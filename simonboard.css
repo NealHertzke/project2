@@ -8,22 +8,24 @@ body {
 }
 
 h2 {
-  width: 250px;
+  font-family: 'Raleway', sans-serif;
+  width: 280px;
   height: 30px;
   border: solid 3px silver;
   color: white;
 }
 
 h1 {
-  color: grey;
+  color: silver;
+  font-family: 'Raleway', sans-serif;
 }
 
 h4 {
-  color: silver;
+  font-family: 'Raleway', sans-serif;
   width: 450px;
   height: 190px;
   border: solid 3px white;
-  color: silver;
+  color: white;
 }
 
 .simonBoard {
@@ -109,7 +111,7 @@ h4 {
   vertical-align: middle;
 }
 
-.display {  
+.display {
   border: solid 2px indigo;
   border-radius: 10px;
   color: white;
@@ -131,12 +133,14 @@ h4 {
   line-height: 55px;
 }
 
-.start {  
+.start {
+  font-family: 'Staatliches', cursive;
   background-color: darkred;
   color: white;
 }
 
  .strict {
+  font-family: 'Staatliches', cursive;
   background-color: indigo;
   color: white;
 }
