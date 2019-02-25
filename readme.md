@@ -1,6 +1,6 @@
 # Project 
 ## Interactive Frontend Development Milestone Project - 
-  ## CREATE A MEMORY GAME (SIMON)
+  ### CREATE A MEMORY GAME (SIMON)
   In this project I made a single page application that uses html, css, and js to create a memory game called SIMON.
 
 ### Getting Started
